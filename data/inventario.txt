@@ -1,14 +1,150 @@
 LAC001|Leche entera 1L|Lacteos|4200.0|35|10|Alqueria
-LAC002|Yogurt fresa 1L|Lacteos|6500.0|4|8|Alqueria
-LAC003|Queso campesino 500g|Lacteos|11500.0|12|5|Colanta
-BEB001|Agua botella 600ml|Bebidas|2000.0|40|15|Postobon
-BEB002|Jugo de naranja 1L|Bebidas|5200.0|18|8|Postobon
+LAC002|Leche deslactosada 1L|Lacteos|4800.0|0|15|Alqueria
+LAC003|Leche descremada 1L|Lacteos|4400.0|10|12|Alqueria
+LAC004|Leche entera bolsa 900ml|Lacteos|3600.0|14|5|Colanta
+LAC005|Leche en polvo 400g|Lacteos|16500.0|4|5|Colanta
+LAC006|Yogurt fresa 1L|Lacteos|6500.0|25|5|Alqueria
+LAC007|Yogurt melocoton 1L|Lacteos|6500.0|10|10|Alqueria
+LAC008|Yogurt natural 1L|Lacteos|6200.0|28|5|Colanta
+LAC009|Yogurt griego 150g|Lacteos|3400.0|21|15|Alpina
+LAC010|Kumis 1L|Lacteos|5900.0|18|12|Colanta
+LAC011|Queso campesino 500g|Lacteos|11500.0|0|6|Colanta
+LAC012|Queso mozzarella 250g|Lacteos|9800.0|13|6|Colanta
+LAC013|Queso doble crema 250g|Lacteos|8900.0|5|12|Alpina
+LAC014|Queso costeno 500g|Lacteos|10500.0|26|12|Colanta
+LAC015|Cuajada 250g|Lacteos|5200.0|28|5|Alpina
+LAC016|Mantequilla 250g|Lacteos|7600.0|26|6|Alpina
+LAC017|Crema de leche 200ml|Lacteos|4700.0|1|15|Alqueria
+LAC018|Arequipe 250g|Lacteos|6300.0|58|12|Alpina
+LAC019|Leche condensada 395g|Lacteos|7900.0|35|12|Colanta
+LAC020|Avena Alpina 250ml|Lacteos|2900.0|42|10|Alpina
+LAC021|Leche achocolatada 200ml|Lacteos|2600.0|22|8|Alqueria
+LAC022|Huevos x12|Lacteos|11800.0|23|15|Granja San Pedro
+LAC023|Huevos x30|Lacteos|27500.0|46|12|Granja San Pedro
+LAC024|Yogurt con cereal 200g|Lacteos|3800.0|29|8|Alpina
+LAC025|Queso crema 150g|Lacteos|5400.0|22|12|Alpina
+LAC026|Leche saborizada fresa 200ml|Lacteos|2600.0|36|12|Alqueria
+LAC027|Kefir 500ml|Lacteos|7200.0|22|6|Colanta
+LAC028|Mantequilla con sal 125g|Lacteos|4100.0|10|5|Alpina
+LAC029|Queso parmesano rallado 100g|Lacteos|8700.0|35|12|Colanta
+LAC030|Suero costeno 250g|Lacteos|3900.0|42|8|Colanta
+BEB001|Agua botella 600ml|Bebidas|2000.0|19|12|Postobon
+BEB002|Agua botella 1.5L|Bebidas|3200.0|23|5|Postobon
 BEB003|Gaseosa 1.5L|Bebidas|5800.0|8|12|Postobon
-ASE001|Jabon de barra|Aseo|2500.0|0|10|Distribuidora Norte
+BEB004|Jugo de naranja 1L|Bebidas|5200.0|59|15|Postobon
+BEB005|Jugo de mango 1L|Bebidas|5200.0|43|12|Postobon
+BEB006|Jugo de mora 1L|Bebidas|5400.0|33|8|Postobon
+BEB007|Gaseosa 1.5L|Bebidas|5800.0|19|5|Postobon
+BEB008|Gaseosa 400ml|Bebidas|2500.0|24|6|Postobon
+BEB009|Gaseosa 2.5L|Bebidas|8200.0|17|5|Postobon
+BEB010|Cola 1.5L|Bebidas|6400.0|21|6|Coca-Cola FEMSA
+BEB011|Cola 400ml|Bebidas|2700.0|44|10|Coca-Cola FEMSA
+BEB012|Cola 2.5L|Bebidas|8900.0|4|5|Coca-Cola FEMSA
+BEB013|Limonada natural 500ml|Bebidas|3300.0|23|12|Coca-Cola FEMSA
+BEB014|Te frio limon 500ml|Bebidas|3100.0|30|10|Postobon
+BEB015|Te frio durazno 500ml|Bebidas|3100.0|40|15|Postobon
+BEB016|Bebida hidratante 600ml|Bebidas|3600.0|32|15|Postobon
+BEB017|Bebida energizante 250ml|Bebidas|4800.0|2|6|Postobon
+BEB018|Malta 330ml|Bebidas|3000.0|9|6|Bavaria
+BEB019|Cerveza lata 330ml|Bebidas|3200.0|24|10|Bavaria
+BEB020|Cerveza botella 330ml|Bebidas|3400.0|20|8|Bavaria
+BEB021|Jugo de manzana 200ml|Bebidas|1900.0|49|10|Coca-Cola FEMSA
+BEB022|Jugo de pera 200ml|Bebidas|1900.0|14|8|Coca-Cola FEMSA
+BEB023|Cafe frio 250ml|Bebidas|3900.0|48|10|Colanta
+BEB024|Chocolate caliente instantaneo 200g|Bebidas|8500.0|38|10|Nutresa
+BEB025|Aromatica manzanilla x20|Bebidas|4200.0|20|5|Hindu
+BEB026|Aromatica frutos rojos x20|Bebidas|4600.0|2|5|Hindu
+BEB027|Te negro x25|Bebidas|5100.0|6|10|Hindu
+BEB028|Gaseosa naranja 1.5L|Bebidas|5800.0|1|12|Postobon
+BEB029|Gaseosa uva 400ml|Bebidas|2500.0|2|12|Postobon
+BEB030|Agua saborizada 500ml|Bebidas|2800.0|15|8|Postobon
+ASE001|Jabon de barra|Aseo|2500.0|13|6|Distribuidora Norte
 ASE002|Detergente 500g|Aseo|7500.0|20|5|Distribuidora Norte
-ASE003|Papel higienico x4|Aseo|9800.0|25|10|Familia
-ABA001|Arroz 1kg|Abarrotes|4800.0|50|20|Distribuidora Norte
-ABA002|Aceite 1L|Abarrotes|12900.0|15|6|Distribuidora Norte
-ABA003|Panela unidad|Abarrotes|3200.0|30|10|Distribuidora Norte
-SNA001|Papas fritas 100g|Snacks|3500.0|22|10|Frito Lay
-SNA002|Galletas de sal|Snacks|2800.0|6|10|Noel
+ASE003|Jabon liquido para manos 250ml|Aseo|5600.0|22|12|Familia
+ASE004|Detergente 1kg|Aseo|13500.0|22|5|Distribuidora Norte
+ASE005|Detergente liquido 1L|Aseo|15800.0|18|10|Distribuidora Norte
+ASE006|Suavizante 1L|Aseo|9300.0|3|6|Distribuidora Norte
+ASE007|Papel higienico x4|Aseo|9800.0|62|15|Familia
+ASE008|Papel higienico x12|Aseo|26500.0|15|6|Familia
+ASE009|Servilletas x100|Aseo|3900.0|49|12|Familia
+ASE010|Toalla de cocina x2|Aseo|7400.0|17|5|Familia
+ASE011|Cloro 1L|Aseo|3800.0|62|15|Distribuidora Norte
+ASE012|Desinfectante lavanda 1L|Aseo|6800.0|21|8|Distribuidora Norte
+ASE013|Limpiador multiusos 500ml|Aseo|5900.0|32|8|Distribuidora Norte
+ASE014|Lavaplatos en crema 500g|Aseo|6200.0|69|15|Distribuidora Norte
+ASE015|Lavaplatos liquido 750ml|Aseo|7300.0|21|6|Distribuidora Norte
+ASE016|Esponja doble uso x3|Aseo|3900.0|30|15|Familia
+ASE017|Fibra verde x2|Aseo|2700.0|16|12|Familia
+ASE018|Escoba|Aseo|12500.0|23|5|Hogar Express
+ASE019|Trapero|Aseo|14500.0|6|8|Hogar Express
+ASE020|Recogedor|Aseo|6900.0|35|10|Hogar Express
+ASE021|Bolsas de basura x10|Aseo|5500.0|2|8|Hogar Express
+ASE022|Crema dental 100ml|Aseo|6400.0|19|6|Colgate
+ASE023|Cepillo dental|Aseo|3800.0|28|6|Colgate
+ASE024|Enjuague bucal 250ml|Aseo|9900.0|28|5|Colgate
+ASE025|Shampoo 400ml|Aseo|14800.0|16|8|Familia
+ASE026|Acondicionador 400ml|Aseo|15200.0|7|15|Familia
+ASE027|Jabon de bano x3|Aseo|8900.0|48|15|Familia
+ASE028|Desodorante roll-on 50ml|Aseo|8200.0|29|6|Familia
+ASE029|Toallas higienicas x10|Aseo|5200.0|7|8|Familia
+ASE030|Panales etapa 3 x30|Aseo|42000.0|18|10|Familia
+ABA001|Arroz 1kg|Abarrotes|4800.0|3|15|Distribuidora Norte
+ABA002|Arroz 5kg|Abarrotes|23500.0|4|5|Distribuidora Norte
+ABA003|Aceite 1L|Abarrotes|12900.0|14|15|Distribuidora Norte
+ABA004|Aceite 3L|Abarrotes|35500.0|57|12|Distribuidora Norte
+ABA005|Panela unidad|Abarrotes|3200.0|3|8|Distribuidora Norte
+ABA006|Azucar 1kg|Abarrotes|4600.0|0|5|Incauca
+ABA007|Azucar 2.5kg|Abarrotes|11200.0|51|15|Incauca
+ABA008|Sal 500g|Abarrotes|1800.0|45|15|Refisal
+ABA009|Frijol cargamanto 500g|Abarrotes|8400.0|15|6|Distribuidora Norte
+ABA010|Lenteja 500g|Abarrotes|4200.0|17|5|Distribuidora Norte
+ABA011|Garbanzo 500g|Abarrotes|5100.0|52|12|Distribuidora Norte
+ABA012|Arveja seca 500g|Abarrotes|3900.0|37|8|Distribuidora Norte
+ABA013|Pasta espagueti 250g|Abarrotes|2700.0|6|6|Doria
+ABA014|Pasta codo 250g|Abarrotes|2700.0|37|8|Doria
+ABA015|Harina de trigo 1kg|Abarrotes|4300.0|3|12|Distribuidora Norte
+ABA016|Harina de maiz 500g|Abarrotes|3600.0|43|12|Distribuidora Norte
+ABA017|Avena en hojuelas 400g|Abarrotes|3900.0|33|6|Distribuidora Norte
+ABA018|Cafe molido 250g|Abarrotes|9800.0|4|6|Colcafe
+ABA019|Cafe instantaneo 50g|Abarrotes|8700.0|50|12|Colcafe
+ABA020|Chocolate de mesa 500g|Abarrotes|9200.0|24|5|Nutresa
+ABA021|Atun en lata 160g|Abarrotes|5400.0|21|12|Van Camps
+ABA022|Sardinas en lata 155g|Abarrotes|4800.0|4|12|Van Camps
+ABA023|Salsa de tomate 400g|Abarrotes|5200.0|0|8|Fruco
+ABA024|Mayonesa 400g|Abarrotes|6900.0|25|5|Fruco
+ABA025|Mostaza 200g|Abarrotes|3100.0|10|5|Fruco
+ABA026|Caldo de gallina x8|Abarrotes|4500.0|45|10|Doria
+ABA027|Lentejas enlatadas 300g|Abarrotes|4000.0|32|12|Distribuidora Norte
+ABA028|Maiz tierno enlatado 300g|Abarrotes|4700.0|43|10|Distribuidora Norte
+ABA029|Vinagre 500ml|Abarrotes|2800.0|48|12|Distribuidora Norte
+ABA030|Polvo de hornear 100g|Abarrotes|3400.0|23|8|Distribuidora Norte
+SNA001|Papas fritas 100g|Snacks|3500.0|2|10|Frito Lay
+SNA002|Papas fritas 200g|Snacks|6300.0|17|10|Frito Lay
+SNA003|Papas pollo 40g|Snacks|1900.0|22|15|Frito Lay
+SNA004|Platanitos 100g|Snacks|3000.0|34|6|Frito Lay
+SNA005|Chicharron 80g|Snacks|3800.0|12|5|Frito Lay
+SNA006|Doritos 150g|Snacks|5600.0|41|15|Frito Lay
+SNA007|Cheetos 100g|Snacks|3900.0|13|6|Frito Lay
+SNA008|Maiz pira 90g|Snacks|2800.0|19|10|Frito Lay
+SNA009|Galletas de sal|Snacks|2800.0|23|10|Noel
+SNA010|Galletas de vainilla|Snacks|2600.0|28|15|Noel
+SNA011|Galletas de chocolate|Snacks|3100.0|50|15|Noel
+SNA012|Galletas wafer 70g|Snacks|2500.0|25|10|Noel
+SNA013|Galletas integrales|Snacks|3300.0|34|8|Noel
+SNA014|Galletas rellenas de crema|Snacks|3000.0|22|5|Noel
+SNA015|Chocolatina 40g|Snacks|2500.0|37|10|Nutresa
+SNA016|Chocolatina con mani 40g|Snacks|2700.0|29|8|Nutresa
+SNA017|Barra de cereal 25g|Snacks|2200.0|22|12|Nutresa
+SNA018|Bombombun|Snacks|700.0|12|6|Colombina
+SNA019|Chicle x5|Snacks|1500.0|9|5|Colombina
+SNA020|Dulces surtidos 100g|Snacks|3200.0|13|6|Colombina
+SNA021|Gomitas 100g|Snacks|3600.0|29|10|Colombina
+SNA022|Paletas x10|Snacks|4800.0|9|10|Colombina
+SNA023|Mani salado 80g|Snacks|2300.0|35|12|Frito Lay
+SNA024|Mani con pasas 100g|Snacks|3500.0|30|5|Frito Lay
+SNA025|Pasabocas mixtos 150g|Snacks|4900.0|11|6|Frito Lay
+SNA026|Pop corn dulce 80g|Snacks|2600.0|16|8|Frito Lay
+SNA027|Tostacos 90g|Snacks|3400.0|4|8|Frito Lay
+SNA028|Salchichas para snack 200g|Snacks|8900.0|11|5|Zenu
+SNA029|Arepas de queso x5|Snacks|7100.0|0|10|Zenu
+SNA030|Bocadillo de guayaba 100g|Snacks|2900.0|32|12|Nutresa
